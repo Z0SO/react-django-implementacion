@@ -1,0 +1,56 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #313131;
+
+  color: white;
+}
+
+/* 
+h1 {
+  color: rgb(1, 31, 58);
+}
+
+h2 {
+  color: rgb(95, 9, 23);
+}
+
+.div-TaskListPage {
+  background-color: rgb(217, 194, 125);
+}
+
+*/
+
+/* INICIO botones del formulario */
+/* 
+.TaskFormPage-saveButton{
+  border: none;
+  border-radius: 4px;
+
+  background-color: springgreen;
+}
+
+.TaskFormPage-saveButton:hover{
+  box-shadow: 2px 2px 4px;
+  padding: 4px;
+
+  transition: all 0.2s;
+}
+
+
+.TaskFormPage-deleteButton{
+  border: none;
+  border-radius: 4px;
+  background-color: tomato;
+}
+
+.TaskFormPage-deleteButton:hover{
+  box-shadow: 2px 2px 4px;
+  padding: 4px;
+  transition: all 0.2s;
+}
+ */
+
+/* FIN botones del formulario */
