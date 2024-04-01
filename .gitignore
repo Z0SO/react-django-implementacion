@@ -15,6 +15,14 @@ __pycache__
 # Ignore environment variables file (si lo tienes)
 .env
 
+# Archivos y directorios generados por el sistema operativo
+.DS_Store
+
+# Carpeta de entorno virtual
+venv/
+
+
+
 # Ignore editor files
 .vscode/
 .idea/
